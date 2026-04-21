@@ -1,0 +1,14 @@
+# Sigma Commercials — prompt spec
+# model:   sora-2 | sora-2-pro  (default: sora-2-pro)
+# size:    720x1280 | 1280x720 | 1024x1792 | 1792x1024  (default: 1280x720)
+# seconds: 4 | 8 | 12 | 16 | 20  (default: 8)
+
+prompt: >
+  A sleek, cinematic product reveal of a luxury watch on a dark marble surface.
+  Dramatic lighting sweeps across the face, revealing intricate details.
+  The camera slowly pulls back to show the full watch against a deep navy backdrop.
+  Photorealistic, 4K, commercial-grade production quality.
+
+model: sora-2-pro
+size: 1280x720
+seconds: 8
