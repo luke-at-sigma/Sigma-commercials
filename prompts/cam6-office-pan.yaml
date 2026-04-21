@@ -2,16 +2,16 @@ model: sora-2-pro
 size: 1280x720
 seconds: 8
 prompt: >
-  Wide shot of a full open-plan tech office. Rows of desks, a dozen or more workers at their computers. Fluorescent panel lighting overhead, grey window light along one wall. The office is real and lived-in — monitors with too many tabs, coffee cups, a few plants, a snack area in the background.
+  Wide shot of a large open-plan tech office. Rows of desks, a dozen or more workers at computers. Cold white fluorescent panel lighting overhead, slightly blue-shifted. Flat grey daylight from large windows along one wall, competing with the fluorescents. Exposed ceiling ducts. Monitors with too many tabs, coffee cups, a few plants, snack area in background. No warm tones anywhere.
 
-  At 0 seconds: Slack notification sounds begin — not one, but many, overlapping, cascading. Multiple monitors across the office light up simultaneously with the same notification. Workers at surrounding desks glance at their screens.
+  At 0 seconds: Slack notification sounds begin — not one, but many, cascading. Multiple monitors across the office light up simultaneously with the same notification. Workers glance at their screens.
 
-  At 1 second: The workers look up from their screens. Not all at once — it spreads, desk by desk, like a ripple. They are all looking in the same direction. Toward the desk cluster where RUSTY stands — RUSTY: stockier build, reddish-orange tight curly hair, round face, navy blue crew-neck sweatshirt.
+  At 1 second: Workers look up from their screens. Not all at once — it ripples desk by desk. All looking in the same direction. Toward the desk cluster where RUSTY stands — stockier build, reddish-orange curly hair, navy crewneck.
 
-  At 2 seconds: The camera begins a slow, deliberate pan across the office, moving left to right, taking in face after face turned in the same direction. The pan is unhurried — 3 seconds to complete. All faces are neutral, looking.
+  At 2 seconds: Camera begins a slow deliberate pan left to right across the office. 3 seconds to complete. Face after face turned in the same direction. All neutral, looking.
 
-  At 5 seconds: The pan comes to rest on RUSTY — now in medium close-up, holding his phone, looking at the screen. He has not spoken yet. The office is still looking at him.
+  At 5 seconds: Pan settles on RUSTY in medium close-up, holding his phone, looking at the screen. He has not spoken yet. The office is still looking at him.
 
   Clip holds on this final frame.
 
-  No dialogue in this clip. Slow pan shot. Real office lighting. Slightly cool, slightly desaturated. No music. 16:9. 24fps. Photorealistic. 8 seconds.
+  No dialogue. Slow pan shot. Cold white fluorescent light, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 8 seconds.

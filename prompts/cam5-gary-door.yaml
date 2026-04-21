@@ -2,10 +2,10 @@ model: sora-2-pro
 size: 1280x720
 seconds: 4
 prompt: >
-  Close-up shot of a closed interior office door in a corporate building. The door has a frosted glass panel taking up roughly the upper third. On the glass or on a nameplate beside the door: "GARY" on one line, "CEO" directly below it. Standard corporate sans-serif lettering.
+  Close-up shot of a closed interior office door in a corporate building. The door has a frosted glass panel in the upper third. On a nameplate beside the door: "GARY" on one line, "CEO" directly below it. Standard corporate sans-serif lettering, legible.
 
-  Through the frosted glass, softly visible: the silhouette of a person — GARY — seated at a desk, in what appears to be a meeting. He is gesturing with one hand. Another faint silhouette is visible across the desk. No faces are visible. No details — just the impression of an important meeting happening behind closed glass.
+  Through the frosted glass: the soft silhouette of a person — GARY — seated at a desk in a meeting, gesturing with one hand. Another faint silhouette visible across from him. No faces, no details — just the impression of an important meeting behind closed glass.
 
-  The door is shut. The nameplate is legible. The shot holds completely still.
+  The door is shut. The nameplate is clearly legible. The shot holds completely still.
 
-  No characters in the foreground. No dialogue. No movement in the foreground. Static locked-off close-up. Flat corporate corridor lighting, slightly cool. Slightly desaturated. No music. 16:9. 24fps. Photorealistic. 4 seconds.
+  No characters in the foreground. No dialogue. No movement in foreground. Static locked-off close-up. Cold corporate corridor lighting, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 4 seconds.

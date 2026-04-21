@@ -2,28 +2,30 @@ model: sora-2-pro
 size: 1280x720
 seconds: 12
 prompt: >
-  Medium close-up shot. RUSTY — stockier build, reddish-orange tight curly hair, round face, navy blue crew-neck sweatshirt — seated at a desk in a lived-in tech office. Fluorescent panel light slightly above, real office background blurred behind him.
+  Medium close-up shot. RUSTY — stockier build, reddish-orange tight curly hair slightly unkempt, round face with red beard, navy blue crew-neck sweatshirt that is slightly wrinkled and lived-in — seated at a desk in a large open-plan tech office. Cold white fluorescent panel light overhead, slightly blue-shifted. Open-plan office background blurred behind him — rows of desks, no warm tones.
 
-  RUSTY delivers the following lines in rapid sequence. Fast, confident, punchy. He is never embarrassed. He believes everything he is saying. Between lines he looks at the laptop screen below frame or toward his colleagues off-camera. Expression: calm self-satisfaction throughout.
+  CRITICAL: Rusty does NOT know he is funny. He is completely sincere. He believes everything he is saying with calm, quiet confidence. He never performs for the camera. He never mugs or goes wide-eyed for effect. The comedy comes entirely from his sincerity — he must play it completely straight.
 
-  LINE 1: "I've, I've vibe coded us a production analytics stack." — slight stumble on the opening "I've, I've" as if he's been waiting to say this and blew the start. Recovers immediately. Eyes hold camera. Mouth closes on "stack." with quiet satisfaction.
+  RUSTY delivers the following lines in rapid sequence. Fast, confident, punchy. Sloppy energy — not polished, not buttoned-up. Between lines he glances at the laptop screen below frame or toward colleagues off-camera. Expression: calm self-satisfaction throughout.
 
-  [Short pause]
-
-  LINE 2: "All of it. As long as I sound confident it's true, right?" — "All of it." lands flat and confirming. Then without pause: "As long as I sound confident it's true, right?" — exploratory, slightly softer, eyes drift off-camera toward colleagues. Mouth stays slightly open on "right?" trailing, waiting. Gets nothing back.
+  LINE 1: "I've, I've vibe coded us a production analytics stack." — slight stumble on "I've, I've" like he blew the start of something he's been waiting to say. Recovers immediately. Closes on "stack." with quiet, genuine satisfaction. Does not react to the stumble.
 
   [Short pause]
 
-  LINE 3: "Yeah. It's agile. Feels like a skateboard in the code." — "Yeah." is a single easy nod. "It's agile." stated like a feature. "Feels like a skateboard in the code." delivered with genuine quiet pride. Eyes back to camera. He is pleased with this metaphor.
+  LINE 2: "All of it. As long as I sound confident it's true, right?" — "All of it." flat and confirming. "As long as I sound confident it's true, right?" — slightly softer, eyes drift off-camera, mouth stays slightly open on "right?" He is genuinely asking. He gets nothing back.
 
   [Short pause]
 
-  LINE 4: "Look, it dashboards everything. Revenue, ad spend..." — "Look," is a pivot word, slight lean forward. "It dashboards everything." enthusiastic. "Revenue, ad spend..." trails off with ellipsis, he is about to name more.
+  LINE 3: "Yeah. It's agile. Feels like a skateboard in the code." — "Yeah." single easy nod. "It's agile." stated like a feature. "Feels like a skateboard in the code." — genuine quiet pride. He is pleased with this metaphor. He means it.
 
   [Short pause]
 
-  LINE 5: "Gary's going to LOVE it." — LOVE stressed, slightly louder. Eyes very slightly wider on LOVE, returning to neutral. Genuine excitement. He does not sense the incoming problem.
+  LINE 4: "Look, it dashboards everything. Revenue, ad spend..." — "Look," slight lean forward. "It dashboards everything." enthusiastic. "Revenue, ad spend..." trails off, about to name more.
+
+  [Short pause]
+
+  LINE 5: "Gary's going to LOVE it." — LOVE stressed, slightly louder. Eyes very slightly wider on LOVE, returning immediately to neutral. Genuine excitement. He does not sense the incoming problem.
 
   DIALOGUE (for lip sync, in order): "I've, I've vibe coded us a production analytics stack." / "All of it. As long as I sound confident it's true, right?" / "Yeah. It's agile. Feels like a skateboard in the code." / "Look, it dashboards everything. Revenue, ad spend..." / "Gary's going to LOVE it."
 
-  Static locked-off medium close-up slightly below eye level. Shallow depth of field. Slightly cool, slightly desaturated. No music. 16:9. 24fps. Photorealistic. 12 seconds.
+  Static locked-off medium close-up slightly below eye level. Cold white fluorescent light, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 12 seconds.

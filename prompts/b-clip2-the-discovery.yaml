@@ -1,0 +1,36 @@
+model: sora-2-pro
+size: 1280x720
+seconds: 12
+prompt: >
+  Medium-wide shot. Same three men at the same standing desk. Continuous scene — same lighting, same framing, same characters as Clip 1. Cold white fluorescent overhead, slightly blue-shifted, slightly desaturated. No warm tones. All three visible in frame throughout.
+
+  RUSTY (center) — stockier, reddish-orange curly hair slightly unkempt, red beard, navy crewneck slightly wrinkled. Completely sincere throughout. Never performs.
+  SPECS (left) — shorter, South Asian, mid-30s, black rectangular glasses, grey crewneck over collar.
+  OXFORD (right) — tall, lanky, mid-to-late 30s, wavy dirty-blonde hair, light blue Oxford open collar. East Coast prep, dry.
+
+  Rapid-fire delivery. No dead air. Characters turn slightly to face whoever is speaking. Deadpan throughout.
+
+  SPECS, looking at the laptop screen: "Does that say Kayla's salary?" — confirming what he sees, not reacting.
+  OXFORD, without looking away from screen: "Gary's going to love THAT." — dry. Stress hard on THAT. Does not smile.
+  OXFORD: "What does the revenue metric say." — statement, not question.
+  RUSTY, instant: "Forty-seven." — one word, complete confidence. He has answered. He is satisfied.
+  SPECS: "Forty-seven what." — requesting a unit. No inflection.
+  RUSTY: "Dollars? Or possibly units. It could be eit—" — cut off mid-word, mouth open, shaped for "either." He does not finish.
+  SPECS, turning toward Rusty: "Who has access to this?" — same tone as asking for the wifi password.
+  OXFORD, turning toward Rusty: "Who has the link." — he already suspects.
+  RUSTY: "Anyone with the link." — flat. Reporting a fact. Completely unbothered.
+
+  Clip ends with Specs and Oxford both looking at Rusty. Oxford blinks once. Nobody speaks.
+
+  DIALOGUE (for lip sync, in order):
+  SPECS: "Does that say Kayla's salary?"
+  OXFORD: "Gary's going to love THAT."
+  OXFORD: "What does the revenue metric say."
+  RUSTY: "Forty-seven."
+  SPECS: "Forty-seven what."
+  RUSTY: "Dollars? Or possibly units. It could be eit—"
+  SPECS: "Who has access to this?"
+  OXFORD: "Who has the link."
+  RUSTY: "Anyone with the link."
+
+  Static locked-off medium-wide shot. Cold white fluorescent light, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 12 seconds.

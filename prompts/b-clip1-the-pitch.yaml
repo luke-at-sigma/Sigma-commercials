@@ -1,0 +1,40 @@
+model: sora-2-pro
+size: 1280x720
+seconds: 12
+prompt: >
+  Medium-wide shot. Three men at a standing desk in a large open-plan tech office. All three visible in frame throughout. Rows of desks and workers blurred behind them. Cold white fluorescent lighting overhead, slightly blue-shifted, slightly desaturated. No warm tones. Laptop open on desk between them.
+
+  RUSTY (center) — stockier, reddish-orange curly hair slightly unkempt, red beard, navy crewneck slightly wrinkled. Sloppy. Completely sincere. He does not know he is funny. He never performs.
+  SPECS (left) — shorter, South Asian, mid-30s, black rectangular glasses, grey crewneck over collar.
+  OXFORD (right) — tall, lanky, mid-to-late 30s, wavy dirty-blonde hair, light blue Oxford button-down, collar open. East Coast prep energy, uptight without effort.
+
+  The clip begins with 0.5 seconds of the three standing in silence looking at the laptop. Then Rusty speaks immediately.
+
+  Rapid-fire delivery throughout. Short pauses between lines. No dead air. The comedy is in the pacing and the sincerity — not in reactions. Characters turn slightly to face whoever is speaking. Reactions are minimal and deadpan.
+
+  RUSTY: "I've, I've vibe coded us a production analytics stack." — stumbles on the opening, recovers instantly, lands "stack." with quiet pride.
+  SPECS turns toward Rusty: "All of it?"
+  OXFORD, barely moving: "All of it."
+  RUSTY: "All of it. As long as I sound confident it's true, right?" — eyes drift to colleagues. Gets nothing back.
+  SPECS: "You named it vibe coded?"
+  RUSTY: "Yeah. It's agile. Feels like a skateboard in the code." — genuine quiet pride in this metaphor.
+  SPECS, back to screen: "Skateboard in the code. Cool." — flat, reading a checkbox.
+  OXFORD, almost to himself: "Terrifying." — one word, downward. He means it.
+  RUSTY, leaning slightly forward: "Look, it dashboards everything. Revenue, ad spend..."
+  RUSTY: "Gary's going to LOVE it." — LOVE stressed, slight widening of eyes, returns to neutral. Completely sincere.
+
+  Clip ends on the group reacting to "Gary's going to LOVE it." — Oxford and Specs both look at the screen, not at each other. Oxford blinks.
+
+  DIALOGUE (for lip sync, in order):
+  RUSTY: "I've, I've vibe coded us a production analytics stack."
+  SPECS: "All of it?"
+  OXFORD: "All of it."
+  RUSTY: "All of it. As long as I sound confident it's true, right?"
+  SPECS: "You named it vibe coded?"
+  RUSTY: "Yeah. It's agile. Feels like a skateboard in the code."
+  SPECS: "Skateboard in the code. Cool."
+  OXFORD: "Terrifying."
+  RUSTY: "Look, it dashboards everything. Revenue, ad spend..."
+  RUSTY: "Gary's going to LOVE it."
+
+  Static locked-off medium-wide shot. Cold white fluorescent light, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 12 seconds.
