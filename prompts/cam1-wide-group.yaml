@@ -1,0 +1,15 @@
+model: sora-2-pro
+size: 1280x720
+seconds: 12
+prompt: >
+  Wide shot. Three men clustered at a desk in a lived-in tech office. Fluorescent panels overhead competing with flat grey window light behind. Energy drink can on desk, hoodie on chair back, half-erased whiteboard blurred behind. Other workers visible but soft and unimportant.
+
+  RUSTY (center) — stockier, reddish-orange curly hair, navy crewneck — has a laptop open, posture slightly forward.
+  SPECS (left) — shorter, South Asian, black rectangular glasses, grey crewneck over collar — stands with arms on desk.
+  OXFORD (right) — tall, wavy dirty-blonde hair, light blue Oxford — stands loosely, hands at sides.
+
+  The three men interact in this shot across its full duration. They look at the laptop screen. They glance at each other. They react to things being said — subtle, deadpan reactions. None of them are speaking in this shot. They are listening, processing, occasionally looking toward whoever is speaking off-camera. Their expressions remain mostly neutral throughout. The group is alive but still.
+
+  At no point do any of them speak. This is a reaction/establishment camera only.
+
+  Static locked-off wide shot at eye level. Shallow depth of field. Slightly cool, slightly desaturated. No music. 16:9. 24fps. Photorealistic. 12 seconds.

@@ -1,0 +1,33 @@
+model: sora-2-pro
+size: 1280x720
+seconds: 12
+prompt: >
+  Medium close-up shot. SPECS — shorter South Asian man, neat short dark hair, black rectangular glasses, grey crew-neck sweater over a collared shirt with collar just visible — seated at a desk in a lived-in tech office. Fluorescent panel light slightly above, slightly cool. Real office background blurred behind him.
+
+  SPECS delivers the following lines in rapid sequence, with minimal pauses between each. Fast, deadpan, punchy. Each line lands and moves on immediately. He does not linger. Between lines he looks toward off-camera — sometimes at the laptop screen below frame, sometimes toward Rusty off-camera right. His expression remains neutral throughout. He does not perform reactions between lines.
+
+  LINE 1: "All of it?" — one eyebrow barely rises. Mouth opens on "All", closes on "it?" with minimal upward inflection.
+
+  [Short pause — looks at screen]
+
+  LINE 2: "You named it vibe coded?" — eyes move from screen to Rusty. Completely flat. Processing a product decision, not judging one.
+
+  [Short pause]
+
+  LINE 3: "Skateboard in the code. Cool." — repeats the phrase back like he's reading a terms-and-conditions checkbox. Zero enthusiasm. Period, not exclamation.
+
+  [Short pause — eyes drop to laptop screen]
+
+  LINE 4: "Does that say Kayla's salary?" — eyes on the screen, reading. Mouth barely moves. He is confirming what he sees, not reacting to it.
+
+  [Short pause]
+
+  LINE 5: "Forty-seven what." — delivered as a statement, not a question. He is requesting a unit of measurement. No inflection.
+
+  [Short pause]
+
+  LINE 6: "Who has access to this?" — turns from screen toward Rusty. Same tone as asking for the wifi password.
+
+  DIALOGUE (for lip sync, in order): "All of it?" / "You named it vibe coded?" / "Skateboard in the code. Cool." / "Does that say Kayla's salary?" / "Forty-seven what." / "Who has access to this?"
+
+  Static locked-off medium close-up. Shallow depth of field. Slightly cool, slightly desaturated. No music. 16:9. 24fps. Photorealistic. 12 seconds.

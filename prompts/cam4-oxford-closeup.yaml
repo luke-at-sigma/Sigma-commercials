@@ -1,0 +1,31 @@
+model: sora-2-pro
+size: 1280x720
+seconds: 8
+prompt: >
+  Medium close-up shot. OXFORD — tall and lanky, wavy dirty-blonde hair falling loosely over his forehead, untucked light blue Oxford button-down shirt, collar open — seated at a desk in a lived-in tech office. Fluorescent panel light slightly above, office background blurred behind. He is tall — frame him so his height reads even seated.
+
+  OXFORD delivers the following lines in rapid sequence. Fast, flat, deadpan. He says less than the others and means more. Between lines he looks at the laptop screen or toward Rusty off-camera. Expression: consistently neutral, occasionally processing something that he finds mildly concerning but chooses not to escalate.
+
+  LINE 1: "All of it." — flat confirmation. Not a question. Eyes on Rusty off-camera. Mouth opens on "All", closes on "it." Nothing changes in his face.
+
+  [Short pause]
+
+  LINE 2: "Terrifying." — barely turns his head. Almost to himself. One word, downward tone. Does not look at anyone. Does not elaborate.
+
+  [Short pause]
+
+  LINE 3: "Gary's going to love THAT." — dry sarcasm. Stress lands hard on THAT, not love. Direct callback to Rusty's line with emphasis inverted. Does not smile. Does not look away from screen. THAT is slightly elongated.
+
+  [Short pause]
+
+  LINE 4: "What does the revenue metric say." — looks at the laptop screen below frame. Delivers as a statement, not a question. No upward inflection. Eyes do not move from the screen.
+
+  [Short pause]
+
+  LINE 5: "Who has the link." — looks toward Rusty. Completely flat. He already suspects the answer. Blinks once after.
+
+  DIALOGUE (for lip sync, in order): "All of it." / "Terrifying." / "Gary's going to love THAT." / "What does the revenue metric say." / "Who has the link."
+
+  Oxford has the fewest words and the most impact. The pauses between his lines should be slightly longer than the others — let each one land.
+
+  Static locked-off medium close-up. Shallow depth of field. Slightly cool, slightly desaturated. No music. 16:9. 24fps. Photorealistic. 8 seconds.
