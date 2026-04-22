@@ -4,25 +4,37 @@ seconds: 12
 
 prompt: >
   SCENE
-  Same three men at the same standing desk. Continuous scene. Rusty is now holding his phone, looking at the screen. Specs and Oxford stand watching him. Background workers are looking up from their desks in the same direction — toward this group. Same open-plan office, same wardrobe.
+  Same three men at the same standing desk. Continuous scene. Rusty now holding his phone. Background workers in the open-plan office have looked up from their desks — monitors glow with the same Slack notification. Same wardrobe throughout.
 
-  RUSTY (center): stockier, reddish-orange curly hair slightly unkempt, red beard, wrinkled navy crewneck. Holding phone at waist level, eyes on the screen.
-  SPECS (left): shorter South Asian man, mid-30s, black rectangular glasses, grey crewneck over collar. Standing still, watching Rusty.
-  OXFORD (right): tall lanky, mid-to-late 30s, wavy dirty-blonde hair, untucked light blue Oxford button-down, collar open. Standing still, watching Rusty.
+  RUSTY (center): stockier, reddish-orange curly hair slightly unkempt, red beard, wrinkled navy crewneck. Holding phone, looking at screen. Sincere, unbothered.
+  SPECS (left): shorter South Asian man, mid-30s, black rectangular glasses, grey crewneck over collar. Watching Rusty.
+  OXFORD (right): tall lanky, mid-to-late 30s, wavy dirty-blonde hair, light blue Oxford button-down, collar open. Watching Rusty.
 
   CINEMATOGRAPHY
-  Static locked-off medium-wide shot. Eye level. 35mm equivalent. Shallow depth of field — all three subjects sharp, background soft. No camera movement. This shot does not move.
+  Fast cuts between speakers for the dialogue section, then locks off wide for the final hold. Medium close-up on each speaker when their line lands. The final hold after "Just me." cuts to a medium-wide on all three — static, locked-off, no movement. The hold does not cut again.
   Color palette: cool white, ash grey, navy, muted amber skin tones, slate blue. Cool white fluorescent overhead; flat grey daylight from windows camera-right. No warm tones. Slightly desaturated grade. 24fps. Photorealistic.
 
   ACTIONS
-  0:00–1:00 — Rusty looks at his phone. Specs and Oxford watch him. Background workers have looked up from their desks. Multiple monitors visible in the background glow with the same Slack notification. Office is quiet.
-  1:00–2:00 — Rusty lifts his eyes from the phone to camera. One breath of processing — soft, almost inaudible — then speaks his line. He does not apologize. He does not look away. He is reporting a fact. He is fine with this answer.
-  2:00–12:00 — Nobody moves. Nobody speaks. Specs looks at the screen. Oxford looks at the screen. Rusty looks back at his phone. The office behind them has gone still. The hold runs the full remaining 10 seconds. The hold is the joke — do not cut it short.
+  0:00 — ON SPECS: Turns toward Rusty. Speaks Line 1. Same tone as asking for the wifi password.
+
+  0:30 — ON OXFORD: Looks toward Rusty. Already suspects the answer. Speaks Line 2. Flat. Blinks once after.
+
+  1:30 — ON RUSTY: Speaks Line 3. Flat. Reporting a fact. Completely unbothered. He is not being evasive — he is just telling them.
+
+  2:30 — WIDE ON ALL THREE: Multiple Slack notification sounds cascade simultaneously across the office behind them. Monitors light up. Workers in the background look up.
+
+  3:30 — ON RUSTY: Looking at his phone screen. Reads it. One soft breath — single syllable of processing. Eyes lift from phone to camera. Speaks Line 4. "Just me." quiet, flat, direct to lens. He does not apologize. He is reporting a new fact. He is fine with this answer.
+
+  4:30 — WIDE LOCKED-OFF ON ALL THREE: Nobody moves. Nobody speaks. Specs looks at the screen. Oxford looks at the screen. Rusty looks back at his phone. The office behind them has gone still. This hold runs the remaining 7–8 seconds. The hold is the joke — do not cut it short.
 
   DIALOGUE
+  SPECS: "Who has access to this?"
+  OXFORD: "Who has the link."
+  RUSTY: "Anyone with the link."
   RUSTY: "...uh, Just me."
 
   SOUND
-  0:00 — Multiple overlapping Slack notification sounds cascade from surrounding desks — not one ping, many, simultaneous.
-  1:00 — Sound fades. Office silence.
-  2:00–12:00 — Near silence. Faint HVAC. No music.
+  0:00 — Distant keyboard clicks.
+  2:30 — Multiple overlapping Slack notification sounds cascade — not one ping, many simultaneous, from every direction in the office.
+  3:30 — Notification sounds stop. Silence.
+  4:30–12:00 — Near silence. No music.
