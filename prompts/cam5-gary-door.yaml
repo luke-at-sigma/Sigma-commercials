@@ -1,11 +1,19 @@
 model: sora-2-pro
 size: 1280x720
 seconds: 4
+
 prompt: >
-  Close-up shot of a closed interior office door in a corporate building. The door has a frosted glass panel in the upper third. On a nameplate beside the door: "GARY" on one line, "CEO" directly below it. Standard corporate sans-serif lettering, legible.
+  SCENE
+  A closed interior office door in a corporate building. The door has a frosted glass panel occupying the upper third. A nameplate beside the door reads "GARY" on one line, "CEO" directly below — standard corporate sans-serif lettering, fully legible. Corporate corridor in foreground, flat and empty.
 
-  Through the frosted glass: the soft silhouette of a person — GARY — seated at a desk in a meeting, gesturing with one hand. Another faint silhouette visible across from him. No faces, no details — just the impression of an important meeting behind closed glass.
+  CINEMATOGRAPHY
+  Static locked-off close-up on the door and nameplate. Eye level. 85mm equivalent. Flat depth of field — nameplate and door sharp. No camera movement.
+  Color palette: cool white, charcoal, frosted glass white, slate grey. Flat corporate corridor lighting, slightly blue-shifted. No warm tones. Slightly desaturated grade. 24fps. Photorealistic.
 
-  The door is shut. The nameplate is clearly legible. The shot holds completely still.
+  ACTIONS
+  0:00–4:00 — The shot holds completely still. Through the frosted glass: the soft silhouette of GARY seated at a desk, gesturing with one hand in what appears to be a meeting. A second faint silhouette visible across from him. No faces, no details — only the impression of an important meeting behind closed glass. The nameplate remains legible throughout. Nothing in the foreground moves.
 
-  No characters in the foreground. No dialogue. No movement in foreground. Static locked-off close-up. Cold corporate corridor lighting, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 4 seconds.
+  No characters in the foreground. No dialogue.
+
+  SOUND
+  Faint muffled office sounds from behind the door. Corridor silence in the foreground. No music.

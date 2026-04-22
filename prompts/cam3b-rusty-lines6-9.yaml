@@ -1,23 +1,29 @@
 model: sora-2-pro
 size: 1280x720
 seconds: 12
+
 prompt: >
-  Medium close-up shot. RUSTY — identical to Camera 3A. Same character, same desk, same framing. Reddish-orange curly hair slightly unkempt, red beard, navy crewneck slightly wrinkled. Cold white fluorescent light, slightly blue-shifted. Open-plan office background blurred behind.
+  SCENE
+  RUSTY — identical to Camera 3A. Same character, same desk, same wardrobe. Reddish-orange curly hair slightly unkempt, red beard, wrinkled navy crewneck. Continuity shot — he looks exactly as he did in 3A.
 
-  CRITICAL: Rusty is completely sincere throughout. He does not perform. He does not know he is funny. He is reporting facts.
+  CINEMATOGRAPHY
+  Static locked-off medium close-up, framed slightly below eye level. 50mm equivalent. Shallow depth of field — Rusty sharp, background a soft wash of grey and cool white. No camera movement.
+  Color palette: cool white, ash grey, muted amber skin tone, navy, slate blue. Cool white fluorescent panel light overhead; flat grey daylight from windows camera-right. No warm tones. Slightly desaturated grade. 24fps. Photorealistic.
 
-  LINE 6: "Forty-seven." — instant. One word. Complete confidence. Zero hesitation. Eyes on camera. He has answered. He is satisfied with the answer. He does not elaborate.
+  ACTIONS
+  CRITICAL CHARACTER NOTE: Rusty does not know he is funny. He is completely sincere. He is reporting facts. He never performs. He is fine with all of his answers.
 
-  [Short pause]
+  0:00 — Rusty looking toward Specs or Oxford off-camera. Calm.
+  0:05 — Speaks Line 1. Instant, one word. Complete confidence. Zero hesitation. Eyes on camera. Mouth closes on "seven." He has answered. He is satisfied.
+  2:00 — Speaks Line 2. "Dollars?" — slight upward inflection, eyebrows lift fractionally. Genuine consideration. "Or possibly units." — second option, equally valid in his mind. "It could be eit—" — cut off mid-word. Mouth stays open, shaped for the start of "either." He does not finish. He does not react to being cut off.
+  5:00 — Eyes drop to phone below frame. He checks it. Reads the screen.
+  8:00 — Eyes lift from phone back to camera. One soft breath — single syllable of processing. Speaks Line 3. "Just me." flat, quiet, direct to lens. He does not look away. He does not apologize. He is reporting a new fact. He is fine with this answer.
+  9:00–12:00 — Rusty holds his phone, looks at the screen. The silence after "Just me." runs the full remaining clip. Do not trim it.
 
-  LINE 7: "Dollars? Or possibly units. It could be eit—" — "Dollars?" slight upward inflection, eyebrows lift fractionally — genuine consideration of the question, not embarrassment. "Or possibly units." second option, equally valid in his mind. "It could be eit—" cut off mid-word, mouth stays open shaped for the start of "either." He was about to finish the sentence. He does not finish.
+  DIALOGUE
+  RUSTY: "Forty-seven."
+  RUSTY: "Dollars? Or possibly units. It could be eit—"
+  RUSTY: "...uh, Just me."
 
-  [Short pause — eyes drift to phone below frame, he checks it]
-
-  LINE 8: "...uh, Just me." — eyes lift from phone back to camera. "uh" is a soft breath — one syllable of processing. Then "Just me." — quiet, flat, direct to lens. He does not look away. He does not apologize. He is reporting a new fact. He is fine with this answer.
-
-  DIALOGUE (for lip sync, in order): "Forty-seven." / "Dollars? Or possibly units. It could be eit—" / "...uh, Just me."
-
-  Line 8 arrives late in the clip — around 8–9 seconds in. The silence after "Just me." before any cut is important — let it breathe.
-
-  Static locked-off medium close-up slightly below eye level. Cold white fluorescent light, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 12 seconds.
+  SOUND
+  Faint office hum. Distant keyboard clicks. Low HVAC. No music.

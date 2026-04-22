@@ -1,33 +1,31 @@
 model: sora-2-pro
 size: 1280x720
 seconds: 12
+
 prompt: >
-  Medium close-up shot. SPECS — shorter South Asian man, mid-30s, neat short dark hair, black rectangular glasses, grey crew-neck sweater over a collared shirt with collar just visible — seated at a desk in a large open-plan tech office. Cold white fluorescent panel light overhead, slightly blue-shifted. Real open-plan office background blurred behind him — rows of desks, other workers, no warm tones.
+  SCENE
+  SPECS — shorter South Asian man, mid-30s, neat short dark hair, black rectangular glasses, grey crewneck sweater over a collared shirt with collar just visible at neck — seated at a desk. Open-plan office background blurred behind him: rows of desks, soft shapes of other workers, exposed ceiling ducts.
 
-  SPECS delivers the following lines in rapid sequence. Fast, deadpan, punchy. Each line lands and moves on immediately — no lingering, no mugging. Between lines he glances toward the laptop screen below frame or toward Rusty off-camera right. Expression stays neutral throughout. He processes like an engineer reviewing a pull request — not judging, just reading.
+  CINEMATOGRAPHY
+  Static locked-off medium close-up. Eye level. 50mm equivalent. Shallow depth of field — Specs sharp, background a soft wash of grey and cool white. No camera movement.
+  Color palette: cool white, ash grey, muted amber skin tone, slate blue, navy. Cool white fluorescent panel light overhead; flat grey daylight from windows camera-right. No warm tones. Slightly desaturated grade. 24fps. Photorealistic.
 
-  LINE 1: "All of it?" — one eyebrow barely rises. Minimal upward inflection on "it?"
+  ACTIONS
+  0:00–0:05 — Specs looking at the laptop screen below frame. Reads. Neutral expression.
+  0:05 — Speaks Line 1. One eyebrow rises fractionally on "All." Minimal upward inflection on "it?" Eyes stay on screen.
+  1:00 — Eyes move from screen to Rusty off-camera right. Completely flat. Speaks Line 2. He is confirming a product name, not questioning a life decision.
+  3:00 — Eyes back to screen. Speaks Line 3. Repeats the phrase like reading a checkbox. Zero enthusiasm.
+  5:00 — Eyes drop to laptop screen, reads something new. Speaks Line 4. Mouth barely moves. He is confirming what he sees, not reacting to it.
+  8:00 — Speaks Line 5. Statement, not question. Requesting a unit of measurement. No inflection.
+  10:00 — Turns from screen toward Rusty off-camera right. Speaks Line 6. Same tone as asking for the wifi password.
 
-  [Short pause — glances at screen]
+  DIALOGUE
+  SPECS: "All of it?"
+  SPECS: "You named it vibe coded?"
+  SPECS: "Skateboard in the code. Cool."
+  SPECS: "Does that say Kayla's salary?"
+  SPECS: "Forty-seven what."
+  SPECS: "Who has access to this?"
 
-  LINE 2: "You named it vibe coded?" — eyes move from screen to Rusty. Flat. He is confirming a product name, not questioning a life decision.
-
-  [Short pause]
-
-  LINE 3: "Skateboard in the code. Cool." — repeats the phrase back like reading a checkbox. Zero enthusiasm. Period, not exclamation.
-
-  [Short pause — eyes drop to laptop]
-
-  LINE 4: "Does that say Kayla's salary?" — eyes on screen, reading. Mouth barely moves. Confirming what he sees, not reacting to it.
-
-  [Short pause]
-
-  LINE 5: "Forty-seven what." — statement, not question. Requesting a unit of measurement. No inflection.
-
-  [Short pause]
-
-  LINE 6: "Who has access to this?" — turns from screen toward Rusty. Same tone as asking for the wifi password.
-
-  DIALOGUE (for lip sync, in order): "All of it?" / "You named it vibe coded?" / "Skateboard in the code. Cool." / "Does that say Kayla's salary?" / "Forty-seven what." / "Who has access to this?"
-
-  Static locked-off medium close-up. Cold white fluorescent light, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 12 seconds.
+  SOUND
+  Faint office hum. Distant keyboard clicks. Low HVAC. No music.

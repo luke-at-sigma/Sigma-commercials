@@ -1,15 +1,25 @@
 model: sora-2-pro
 size: 1280x720
 seconds: 12
+
 prompt: >
-  Wide shot. Three men clustered at a standing desk in a large open-plan tech office. Rows of other desks visible behind them, a dozen workers at computers, all blurred and unimportant. Exposed black ceiling ducts overhead. Large windows along the far wall letting in flat grey daylight. Fluorescent panel lighting overhead — cold white, slightly blue-shifted, NO warm tones, no golden light. Energy drink can on desk. Hoodie draped over a nearby chair. Half-erased whiteboard soft in background.
+  SCENE
+  Three men clustered at a standing desk in a large open-plan tech office. Laptop open on the desk between them. Energy drink can left of laptop. Hoodie slung over a nearby chair. Half-erased whiteboard visible far background. Rows of occupied desks recede behind them — a dozen workers present but blurred and unimportant.
 
-  RUSTY (center) — stockier build, reddish-orange tight curly hair slightly unkempt, round face with red beard, navy blue crew-neck sweatshirt that is slightly wrinkled and lived-in. He is sloppy in an endearing way. Laptop open in front of him, posture slightly forward.
-  SPECS (left) — shorter, South Asian man, mid-30s, neat short dark hair, black rectangular glasses, grey crew-neck sweater over a collared shirt, collar just visible at neck. Arms resting on desk.
-  OXFORD (right) — tall and lanky, mid-to-late 30s, wavy dirty-blonde hair loosely over his forehead, untucked light blue Oxford button-down shirt, collar open. East Coast prep school energy — uptight without effort. Stands loosely, hands at sides.
+  RUSTY (center): stockier build, reddish-orange tight curly hair slightly unkempt, red beard, navy crewneck sweatshirt visibly wrinkled and lived-in. Sloppy energy.
+  SPECS (left): shorter South Asian man, mid-30s, neat short dark hair, black rectangular glasses, grey crewneck over a collared shirt, collar just visible at neck.
+  OXFORD (right): tall and lanky, mid-to-late 30s, wavy dirty-blonde hair loosely over his forehead, untucked light blue Oxford button-down, collar open. East Coast prep — uptight without effort.
 
-  The three men are alive and reactive across the full duration. They look at the laptop screen. They glance at each other. They react to things being said off-camera — subtle, deadpan. None of them speak in this shot. They are listening, processing. Expressions remain mostly neutral. The group is still but not frozen.
+  CINEMATOGRAPHY
+  Static locked-off wide shot. Eye level. 35mm equivalent. Shallow depth of field — all three subjects sharp, background workers soft. No camera movement. No handheld wobble.
+  Color palette: cool white, ash grey, navy, muted amber skin tones, slate blue. Cool white fluorescent panels overhead; flat grey daylight from large windows camera-right competing with fluorescents. No warm tones, no golden fill. Slightly desaturated grade. 24fps. Photorealistic.
 
-  At no point do any of them speak. Reaction and establishment camera only.
+  ACTIONS
+  0:00–1:00 — All three stand looking at the laptop screen. Stillness. No one speaks.
+  1:00–10:00 — The group reacts to an off-camera conversation. Small, controlled responses: eyes shift between the screen and each other, a slight lean forward from Rusty, a barely perceptible tightening from Oxford. Specs processes quietly. No one speaks. No one performs. Reactions are honest and subdued.
+  10:00–12:00 — All three look at the screen. Nobody moves. The hold is deliberate.
 
-  Static locked-off wide shot at eye level. Shallow depth of field. Cold white fluorescent light, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 12 seconds.
+  No character speaks at any point in this clip. This is a reaction and establishment camera only.
+
+  SOUND
+  Faint office hum. Distant keyboard clicks. Low HVAC. No music.

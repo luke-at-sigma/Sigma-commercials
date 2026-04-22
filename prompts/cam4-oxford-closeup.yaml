@@ -1,31 +1,31 @@
 model: sora-2-pro
 size: 1280x720
 seconds: 8
+
 prompt: >
-  Medium close-up shot. OXFORD — tall and lanky, mid-to-late 30s, wavy dirty-blonde hair loosely over his forehead, untucked light blue Oxford button-down shirt, collar open — seated at a desk in a large open-plan tech office. He reads as tall even seated — frame him so the height comes through. Cold white fluorescent panel light overhead, slightly blue-shifted. Open-plan office background blurred behind him, rows of desks, no warm tones.
+  SCENE
+  OXFORD — tall and lanky, mid-to-late 30s, wavy dirty-blonde hair falling loosely over his forehead, untucked light blue Oxford button-down shirt, collar open — seated at a desk. Frame him so his height reads even seated — head near the top of frame, long torso visible. Open-plan office background blurred behind him.
 
-  Oxford has East Coast prep school energy. Uptight without trying to be. Dry. He says less than the others and means more. When he says "Terrifying" he is not being glib — he means it, and the weight of that lands. Between lines he looks at the laptop screen or toward Rusty off-camera. Expression: consistently neutral, occasionally processing something mildly concerning that he has chosen not to escalate.
+  CINEMATOGRAPHY
+  Static locked-off medium close-up. Eye level. 50mm equivalent. Shallow depth of field — Oxford sharp, background a soft wash of grey and cool white. No camera movement.
+  Color palette: cool white, ash grey, slate blue, muted amber skin tone, light chambray. Cool white fluorescent panel light overhead; flat grey daylight from windows camera-right. No warm tones. Slightly desaturated grade. 24fps. Photorealistic.
 
-  LINE 1: "All of it." — flat confirmation. Not a question. Eyes on Rusty off-camera. Nothing changes in his face.
+  ACTIONS
+  CHARACTER NOTE: Oxford has East Coast prep school energy — uptight without effort, dry. He says less than the others and means more. His words land like dropped weights. When he says "Terrifying" he is not being glib. He means it. Pauses between his lines are slightly longer than other characters — each line needs to land and sit.
 
-  [Pause — slightly longer than you'd expect]
+  0:00 — Oxford looking toward Rusty off-camera. Waiting.
+  0:05 — Speaks Line 1. Flat confirmation. Eyes on Rusty. Nothing changes in his face. Mouth closes on "it." Period.
+  1:00 — Barely turns his head. Almost to himself. Speaks Line 2. One word, downward tone. Does not look at anyone. Does not elaborate.
+  2:30 — Eyes return to the laptop screen below frame. Speaks Line 3. Stress lands hard on THAT — not love. Direct callback, emphasis inverted. Does not smile. THAT slightly elongated.
+  4:30 — Eyes stay on laptop screen. Speaks Line 4. Statement, not question. No upward inflection. He is reading something and reporting it.
+  6:30 — Eyes shift from screen to Rusty off-camera. Speaks Line 5. Completely flat. He already suspects the answer. Blinks once after.
 
-  LINE 2: "Terrifying." — barely turns his head. Almost to himself. One word, downward tone. Does not look at anyone. Does not elaborate. He means it.
+  DIALOGUE
+  OXFORD: "All of it."
+  OXFORD: "Terrifying."
+  OXFORD: "Gary's going to love THAT."
+  OXFORD: "What does the revenue metric say."
+  OXFORD: "Who has the link."
 
-  [Pause]
-
-  LINE 3: "Gary's going to love THAT." — dry. Stress hard on THAT, not love. Callback to Rusty's line with emphasis inverted. Does not smile. THAT is slightly elongated.
-
-  [Pause]
-
-  LINE 4: "What does the revenue metric say." — looks at the laptop screen below frame. Statement, not question. No upward inflection. Eyes do not move from the screen.
-
-  [Pause]
-
-  LINE 5: "Who has the link." — looks toward Rusty. Flat. He already suspects the answer. Blinks once after.
-
-  DIALOGUE (for lip sync, in order): "All of it." / "Terrifying." / "Gary's going to love THAT." / "What does the revenue metric say." / "Who has the link."
-
-  Pauses between Oxford's lines are slightly longer than the others — each one needs to land and sit.
-
-  Static locked-off medium close-up. Cold white fluorescent light, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 8 seconds.
+  SOUND
+  Faint office hum. Low HVAC. No music.

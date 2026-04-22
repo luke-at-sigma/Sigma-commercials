@@ -1,17 +1,28 @@
 model: sora-2-pro
 size: 1280x720
 seconds: 8
+
 prompt: >
-  Wide shot of a large open-plan tech office. Rows of desks, a dozen or more workers at computers. Cold white fluorescent panel lighting overhead, slightly blue-shifted. Flat grey daylight from large windows along one wall, competing with the fluorescents. Exposed ceiling ducts. Monitors with too many tabs, coffee cups, a few plants, snack area in background. No warm tones anywhere.
+  SCENE
+  Large open-plan tech office. Rows of desks with a dozen or more workers at computers. Monitors with too many browser tabs. Coffee cups, a few plants, a snack area in the background. Exposed ceiling ducts overhead. Large windows along the far wall admitting flat grey daylight.
 
-  At 0 seconds: Slack notification sounds begin — not one, but many, cascading. Multiple monitors across the office light up simultaneously with the same notification. Workers glance at their screens.
+  RUSTY visible in the scene: stockier build, reddish-orange tight curly hair, red beard, wrinkled navy crewneck — standing at his desk cluster, holding a phone.
 
-  At 1 second: Workers look up from their screens. Not all at once — it ripples desk by desk. All looking in the same direction. Toward the desk cluster where RUSTY stands — stockier build, reddish-orange curly hair, navy crewneck.
+  CINEMATOGRAPHY
+  Slow pan shot — the only clip in this production with camera movement. Pan moves left to right over 3 seconds, unhurried and deliberate. Begins wide on the full office, settles into a medium close-up on Rusty. This movement is earned — use it once.
+  Color palette: cool white, ash grey, muted amber skin tones, slate blue, navy. Cool white fluorescent panels overhead; flat grey daylight from windows far wall competing with fluorescents. No warm tones. Slightly desaturated grade. 24fps. Photorealistic.
 
-  At 2 seconds: Camera begins a slow deliberate pan left to right across the office. 3 seconds to complete. Face after face turned in the same direction. All neutral, looking.
+  ACTIONS
+  0:00 — Wide on the full office. Workers at their desks, typing.
+  0:05 — Multiple Slack notification sounds begin simultaneously — cascading, overlapping, as if every screen in the office received the same message at once. Monitors across the office light up with the same notification glow.
+  1:00 — Workers begin looking up from their screens. Not all at once — it ripples desk by desk, left to right. All faces turn in the same direction: toward Rusty's desk cluster.
+  2:00 — Camera begins slow deliberate pan left to right. Takes 3 seconds to complete. Face after face in the frame, all turned the same direction. All expressions neutral. All looking.
+  5:00 — Pan settles on Rusty in medium close-up. He is looking at his phone screen. He has not spoken yet. The office is still watching him. Clip holds on this frame.
+  5:00–8:00 — Hold on Rusty looking at his phone. The Slack sounds have stopped. Office silence.
 
-  At 5 seconds: Pan settles on RUSTY in medium close-up, holding his phone, looking at the screen. He has not spoken yet. The office is still looking at him.
+  No dialogue in this clip.
 
-  Clip holds on this final frame.
-
-  No dialogue. Slow pan shot. Cold white fluorescent light, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 8 seconds.
+  SOUND
+  0:05 — Multiple overlapping Slack notification sounds cascade — not one ping, many simultaneous.
+  1:00 — Notification sounds fade. Ambient office hum.
+  5:00 — Near silence. Faint HVAC only. No music.
