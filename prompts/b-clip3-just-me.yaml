@@ -1,24 +1,28 @@
 model: sora-2-pro
 size: 1280x720
 seconds: 12
+
 prompt: >
-  Medium-wide shot. Same three men at the same standing desk. Same continuous scene. Cold white fluorescent overhead, slightly blue-shifted, slightly desaturated. No warm tones. All three visible in frame throughout.
+  SCENE
+  Same three men at the same standing desk. Continuous scene. Rusty is now holding his phone, looking at the screen. Specs and Oxford stand watching him. Background workers are looking up from their desks in the same direction — toward this group. Same open-plan office, same wardrobe.
 
-  RUSTY (center) — stockier, reddish-orange curly hair slightly unkempt, red beard, navy crewneck slightly wrinkled. Now holding his phone, looking at the screen.
-  SPECS (left) — shorter, South Asian, mid-30s, black rectangular glasses, grey crewneck over collar.
-  OXFORD (right) — tall, lanky, mid-to-late 30s, wavy dirty-blonde hair, light blue Oxford open collar.
+  RUSTY (center): stockier, reddish-orange curly hair slightly unkempt, red beard, wrinkled navy crewneck. Holding phone at waist level, eyes on the screen.
+  SPECS (left): shorter South Asian man, mid-30s, black rectangular glasses, grey crewneck over collar. Standing still, watching Rusty.
+  OXFORD (right): tall lanky, mid-to-late 30s, wavy dirty-blonde hair, untucked light blue Oxford button-down, collar open. Standing still, watching Rusty.
 
-  At 0 seconds: All three visible. Multiple Slack notification sounds cascade — heard but not seen — as if coming from every screen in the open-plan office around them. Workers in the background blurrily look up from their desks, glancing toward this group.
+  CINEMATOGRAPHY
+  Static locked-off medium-wide shot. Eye level. 35mm equivalent. Shallow depth of field — all three subjects sharp, background soft. No camera movement. This shot does not move.
+  Color palette: cool white, ash grey, navy, muted amber skin tones, slate blue. Cool white fluorescent overhead; flat grey daylight from windows camera-right. No warm tones. Slightly desaturated grade. 24fps. Photorealistic.
 
-  Rusty looks down at his phone. The others watch him.
+  ACTIONS
+  0:00–1:00 — Rusty looks at his phone. Specs and Oxford watch him. Background workers have looked up from their desks. Multiple monitors visible in the background glow with the same Slack notification. Office is quiet.
+  1:00–2:00 — Rusty lifts his eyes from the phone to camera. One breath of processing — soft, almost inaudible — then speaks his line. He does not apologize. He does not look away. He is reporting a fact. He is fine with this answer.
+  2:00–12:00 — Nobody moves. Nobody speaks. Specs looks at the screen. Oxford looks at the screen. Rusty looks back at his phone. The office behind them has gone still. The hold runs the full remaining 10 seconds. The hold is the joke — do not cut it short.
 
-  RUSTY looks up from his phone, direct to camera: "...uh, Just me." — "uh" is one soft breath of processing. "Just me." flat, quiet, direct. He is reporting a fact. He does not apologize. He is fine with this answer.
-
-  The clip then holds. All three stand there. Nobody moves. Nobody speaks. Oxford looks at the screen. Specs looks at the screen. Rusty looks at his phone again. The Slack sounds from the wider office have stopped. The hold lasts approximately 6–7 seconds.
-
-  The hold is the joke. Do not cut it short.
-
-  DIALOGUE (for lip sync):
+  DIALOGUE
   RUSTY: "...uh, Just me."
 
-  Static locked-off medium-wide shot. Cold white fluorescent light, slightly blue-shifted, slightly desaturated. No warm tones. No music. 16:9. 24fps. Photorealistic. 12 seconds.
+  SOUND
+  0:00 — Multiple overlapping Slack notification sounds cascade from surrounding desks — not one ping, many, simultaneous.
+  1:00 — Sound fades. Office silence.
+  2:00–12:00 — Near silence. Faint HVAC. No music.
