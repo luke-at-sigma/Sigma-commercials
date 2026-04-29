@@ -1,0 +1,32 @@
+model: sora-2-pro
+size: 1280x720
+seconds: 12
+
+prompt: >
+  SCENE
+  Inside the glass-walled conference room. JANET sits at the head of the table, alone. Laptop open in front of her showing a table of web data — rows and columns, clearly a data export or spreadsheet. A large wall-mounted display screen is on the wall to her left. A secondary screen or display is mounted on the wall to her right. The room has the feel of someone who has set it up as a personal command center.
+
+  JANET: professional woman, late 30s, composed. Dark blazer over a simple top. Hair pulled back. She speaks to the room like she's run this kind of meeting a hundred times — calm, direct, efficient. Not performing for anyone. She is completely in control.
+
+  CINEMATOGRAPHY
+  Medium close-up on Janet for Commands 1 and 3. When she turns to address a different part of the room, the camera follows her eyeline — cutting or panning slightly to emphasize she is addressing a different interface each time. The room itself is her interface. Each command is a clean cut. No handheld. No dramatic movement.
+  Color palette: cool white, charcoal, slate blue, warm neutral skin tone. Cool white overhead panels; soft daylight from windows far wall. Slightly desaturated. No warm tones. 24fps. Photorealistic.
+
+  ACTIONS
+  0:00 — ON JANET: Eyes on laptop screen. She tilts the screen slightly toward camera — a table of web data is visible. Speaks Line 1. Relaxed, conversational. Not a question — a direction.
+
+  3:00 — ON JANET: Still looking at the laptop screen. Speaks Line 2. Direct, efficient. She is not waiting for a response. She is issuing a task.
+
+  6:00 — JANET TURNS LEFT: She looks toward the large wall-mounted display to her left. A deliberate turn — she is now addressing a different part of her setup. Speaks Line 3. Same calm tone. Dashboard. Sales. Done.
+
+  9:00 — JANET TURNS RIGHT: She turns to her right — addressing the secondary screen or display on that wall. Another deliberate shift. She is distributing work across agents. Speaks Line 4. Completely matter-of-fact. "Every hour" is not a big ask to her.
+
+  11:30 — ON JANET: She turns back to her laptop. Looks at the screen. Satisfied. Ready for what comes next.
+
+  DIALOGUE
+  JANET: "I just got this table of web data from my data team. Can you help me analyze it, and tell me how I can make it more effective?"
+  JANET: "Build a dashboard that analyzes sales for me."
+  JANET: "Every hour I need you to pull the latest numbers and flag anything unusual."
+
+  SOUND
+  Soft room tone. Quiet. No office noise — she is behind closed glass. No music.

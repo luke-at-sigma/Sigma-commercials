@@ -1,0 +1,25 @@
+model: sora-2-pro
+size: 1280x720
+seconds: 4
+
+prompt: >
+  SCENE
+  The same hallway outside the glass-walled conference room. The two colleagues are still standing there watching Janet through the glass. A third person — a passerby — walks through frame from camera-left, heading somewhere else. He barely slows down. He does not stop. He overhears the tail end of the conversation and delivers his line mid-stride.
+
+  PASSERBY: man, 40s, relaxed, slightly rumpled work clothes, coffee in hand. He is not part of this conversation. He is simply walking past and is compelled to contribute one fact before disappearing off-camera right.
+
+  CINEMATOGRAPHY
+  Wide enough to show the hallway, the two colleagues at the glass, and the passerby moving through frame. Cut to a brief medium on the passerby's face as he delivers his line — he glances over without breaking stride. Then he's gone.
+  Color palette: cool white, ash grey, slate blue, warm neutral skin tones. Cool white fluorescent hallway lighting. Slightly desaturated. No warm tones. 24fps. Photorealistic.
+
+  ACTIONS
+  0:00 — WIDE ON HALLWAY: Two colleagues at glass wall. Janet visible inside in background.
+  0:05 — Passerby enters frame from camera-left, walking at normal pace. Does not stop.
+  0:15 — ON PASSERBY FACE: He glances toward the two colleagues and the glass room mid-stride. Speaks his line. Completely matter-of-fact. This is not news to him. He keeps walking.
+  0:25 — WIDE: Passerby exits frame camera-right. Two colleagues watch him go, then look back at each other.
+
+  DIALOGUE
+  PASSERBY: "Anyone can build agents in Sigma."
+
+  SOUND
+  Soft hallway ambient. Footsteps. No music.

@@ -1,0 +1,26 @@
+model: sora-2-pro
+size: 1280x720
+seconds: 4
+
+prompt: >
+  SCENE
+  A glass-walled conference room inside a modern tech office. The room is visible from the hallway — frosted lower panel, clear upper glass, a nameplate or room booking display beside the door. Inside: a clean conference table, a large wall-mounted display screen, a laptop open at the head of the table, a secondary tablet or display on the side credenza. The room is empty. Hallway outside is active — blurred workers passing.
+
+  JANET: professional woman, late 30s, composed and unhurried. Dark blazer over a simple top. Hair pulled back cleanly. She carries herself like someone who already knows what she's about to do.
+
+  CINEMATOGRAPHY
+  Starts wide on the hallway outside the glass room. Camera stays static — Janet walks into frame, pauses briefly at the door, opens it, enters. As she sits at the head of the table and opens her laptop, cut to a medium shot inside the room looking toward her. Clean, composed framing. 24fps. Photorealistic.
+  Color palette: cool white, charcoal, slate blue, warm neutral skin tone. Cool white overhead panels; soft daylight from windows far wall. Slightly desaturated. No warm tones.
+
+  ACTIONS
+  0:00 — WIDE ON HALLWAY: Glass-walled conference room visible. Room empty. Office activity blurred outside.
+  0:10 — Janet walks into frame from camera-left, approaches the conference room door without breaking stride.
+  0:15 — She opens the door and enters. No hesitation.
+  0:25 — She sits at the head of the table, opens the laptop. Looks at the screen. Settles in.
+  0:35 — ON JANET MEDIUM: She looks at the screen. Calm. Ready. Speaks Line 1.
+
+  DIALOGUE
+  JANET: "Let's get started."
+
+  SOUND
+  Soft office ambient. Door opening and closing. No music.

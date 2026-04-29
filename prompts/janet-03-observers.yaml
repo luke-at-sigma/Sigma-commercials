@@ -1,0 +1,41 @@
+model: sora-2-pro
+size: 1280x720
+seconds: 12
+
+prompt: >
+  SCENE
+  The hallway outside the glass-walled conference room. Through the clear upper panel of the glass wall, JANET is visible inside — seated at the head of the table, turning between screens, clearly in command of something. She is slightly out of focus but her deliberate, confident movement is readable.
+
+  Two colleagues stand in the hallway facing the glass, watching Janet. They are not in the room. They are observers.
+
+  COLLEAGUE 1: woman, early 30s, casual office attire, holding a coffee mug. Curious expression. She initiates.
+  COLLEAGUE 2: man, mid-30s, hoodie, lanyard with badge. Relaxed. He knows what's going on in there.
+
+  CINEMATOGRAPHY
+  Medium two-shot on the two colleagues in the foreground, glass wall and Janet visible but soft in background. Fast cuts between speakers — tight on each face when their line lands. Janet's movement through the glass provides background motion. No camera movement within shots. Clean cuts.
+  Color palette: cool white, ash grey, slate blue, warm neutral skin tones. Cool white fluorescent hallway lighting overhead. Slightly desaturated. No warm tones. 24fps. Photorealistic.
+
+  ACTIONS
+  0:00 — TWO-SHOT: Both colleagues facing the glass, watching Janet move between screens inside. Janet's silhouette visible turning to her left in the background.
+
+  0:05 — ON COLLEAGUE 1: Speaks Line 1. Genuinely curious. Slight tilt of the head. Eyes on the glass.
+
+  1:30 — ON COLLEAGUE 2: Speaks Line 2. Calm. No big deal to him — he's seen this before. Eyes stay on Janet through the glass.
+
+  4:00 — ON COLLEAGUE 1: Looks back through the glass. Takes this in. Speaks nothing — just watches for a beat.
+
+  5:00 — BACK TO TWO-SHOT: Janet visible in background turning to her right now — another command to another screen.
+
+  6:00 — ON COLLEAGUE 2: Speaks Line 3. Still watching Janet. Slight nod. This is a compliment, delivered flatly.
+
+  8:00 — ON COLLEAGUE 1: Watching. Nods slowly. Something clicking for her.
+
+  10:00 — TWO-SHOT: Both watching through the glass. Janet in background, calm and in control.
+
+  DIALOGUE
+  COLLEAGUE 1: "What's Janet doing in there?"
+  COLLEAGUE 2: "She's building her agents to work for her."
+  COLLEAGUE 2: "Janet knows how to build agents."
+
+  SOUND
+  Soft hallway ambient. Distant office noise. Muffled — Janet's voice not audible through the glass. No music.
